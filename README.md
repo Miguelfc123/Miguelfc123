@@ -1,29 +1,48 @@
-<h1 align="center">Olá 👋, eu sou Miguel Fernandes</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas no SENAI | Desenvolvedor em formação</h3>
+<h1 align="center"> Olá, sou Miguel Fernandes! </h1>
+<h3 align="center"> Estudante de Tecnologia  Futuro Engenheiro de Software </h3>
+
+<div align="center">
+  <p>Estou trilhando meu caminho no universo da programação, absorvendo conhecimento e me preparando para os desafios do mercado de tecnologia. Ao terminar minha formação no SENAI, darei início a uma nova jornada acadêmica, mergulhando de cabeça no ensino superior para aperfeiçoar minhas habilidades e conquistar meu espaço no mundo do desenvolvimento de sistemas.</p>
+  
+  <p>Meu objetivo? Unir teoria e prática através de um estágio transformador que me permita crescer profissionalmente enquanto contribuo com projetos inovadores. Acredito que cada linha de código escrita é uma oportunidade de criar soluções que impactam vidas!</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Miguelfc123&theme=onedark" alt="Miguelfc123" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Miguelfc123&theme=radical&margin-w=15&no-bg=true" alt="Meus Conquistas" width="100%"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miguelfc123&label=Profile%20views&color=0e75b6&style=flat" alt="Miguelfc123" /> 
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelfc123&show_icons=true&locale=en&theme=radical" alt="Miguelfc123" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelfc123&theme=radical" alt="Miguelfc123" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelfc123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Miguelfc123" height="180" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Miguelfc123&label=👀%20Visualizações%20do%20Perfil&color=blueviolet&style=flat" alt="Visualizações" /> 
+  <img src="https://img.shields.io/badge/🚀-Disponível%20para%20Colaborações-important" alt="Disponível" />
+  <img src="https://img.shields.io/badge/💡-Sempre%20Aprendendo-brightgreen" alt="Aprendizado" />
 </div>
 
-<br/>
+<!-- Seção de Estatísticas -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Miguelfc123&show_icons=true&count_private=true&theme=radical&show_owner=true" alt="Estatísticas" height="180"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelfc123&layout=compact&theme=radical&langs_count=8" alt="Linguagens" height="180"/>
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelfc123&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Sequência" height="180"/>
+  </div>
+</div>
+
+---
+
+### 📚 Minha Jornada Acadêmica
+- 🎓 **Formação Técnica**: Atualmente imerso no curso de Desenvolvimento de Sistemas no SENAI, adquirindo conhecimentos essenciais para minha carreira.
+- 🎮 **Especialização Paralela**: Complementando minha formação com o curso de Desenvolvimento de Jogos na Zion, explorando criatividade e lógica.
+- 📖 **Próximos Passos**: Preparando-me para o ENEM com o objetivo de ingressar no ensino superior e aprofundar meus conhecimentos teóricos.
+- 🎯 **Objetivo**: Em busca de oportunidades que me permitam conciliar teoria e prática através de um estágio enriquecedor.
 
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no SENAI
-- 🎮 Fazendo curso de **Desenvolvimento de Jogos** na Zion
 - 🌐 Conhecimento em desenvolvimento **web e mobile**
 - 🎬 Experiência em **edição de vídeo**
 - 📍 Natural de **São Paulo/SP**
