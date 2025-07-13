@@ -1,4 +1,6 @@
-<h1 align="center"> Olá, sou Miguel Fernandes! </h1>
+
+  
+  <h1 align="center"> Olá, sou Miguel Fernandes! </h1>
 <h3 align="center"> Estudante de Tecnologia  Futuro Engenheiro de Software </h3>
 
 <div align="center">
@@ -31,6 +33,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelfc123&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Sequência" height="180"/>
   </div>
 </div>
+
+
+
 
 ---
 
