@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Miguelfc123&theme=radical&margin-w=15&no-bg=true" alt="Meus Conquistas" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Miguelfc123&theme=monokai&margin-w=15&no-bg=true" alt="Meus Troféus" width="100%"/>
   </a>
 </p>
 
